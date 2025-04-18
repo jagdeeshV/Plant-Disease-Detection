@@ -1,0 +1,17 @@
+List of packages / Frameworks required to be installed for the Project
+
+1	os
+2	numpy
+3	pandas
+4	tensorflow
+5	streamlit
+6	keyboard
+7	psutil
+8	time
+9	torch
+10	onnx
+11	torchvision
+12	scikit-learn
+13	PIL
+14	shutil
+15	Matplotlib
